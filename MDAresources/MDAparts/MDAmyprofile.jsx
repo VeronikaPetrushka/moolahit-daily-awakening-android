@@ -59,7 +59,7 @@ const MDAmyprofile = () => {
     };
 
     const saveUser = async () => {
-        if (!nickname || !userImage) {
+        if (!nickname) {
             Alert.alert('Please enter a nickname and select an image');
             return;
         }

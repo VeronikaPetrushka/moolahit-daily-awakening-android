@@ -46,8 +46,8 @@ const MDAintro = () => {
     };
 
     const saveUser = async () => {
-        if (!nickname || !userImage) {
-            Alert.alert('Please enter a nickname and select an image');
+        if (!nickname) {
+            Alert.alert('Please enter a nickname');
             return;
         }
 
