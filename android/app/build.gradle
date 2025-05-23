@@ -77,12 +77,12 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.moolahitdailyawakening"
+    namespace "com.moolahit.daily.awakening"
     defaultConfig {
-        applicationId "com.moolahitdailyawakening"
+        applicationId "com.moolahit.daily.awakening"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 2
+        versionCode 3
         versionName "1.0.0"
     }
     signingConfigs {

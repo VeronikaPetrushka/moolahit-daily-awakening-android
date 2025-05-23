@@ -1,4 +1,4 @@
-package com.moolahitdailyawakening
+package com.moolahit.daily.awakening
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

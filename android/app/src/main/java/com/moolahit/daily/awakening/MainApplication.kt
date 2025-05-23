@@ -1,4 +1,4 @@
-package com.moolahitdailyawakening
+package com.moolahit.daily.awakening
 
 import android.app.Application
 import com.facebook.react.PackageList
