@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.moolahit.daily.awakening"
+    namespace "com.game.moolah.mega.trip"
     defaultConfig {
-        applicationId "com.moolahit.daily.awakening"
+        applicationId "com.game.moolah.mega.trip"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 3
